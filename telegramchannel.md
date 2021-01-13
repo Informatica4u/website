@@ -1,4 +1,4 @@
-##### [Home](https://github.com/Informatica4u/website)
+##### [Home](https://github.com/Informatica4u/website/blob/gh-pages/index.md)
 # Lista canali Telegram consigliati
 ### [FAKEMAILBOT](https://telegram.me/fakemailbot)
 Permette di creare e gestire indirizzi di posta elettronica fasulli, così da poter leggere direttamente su Telegram le mail ricevute.
