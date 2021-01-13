@@ -1,7 +1,8 @@
-# Welcome to GitHub Pages
+# Benvenuti sul sito web di Informatica.4u
 
-You can use the [editor on GitHub](https://github.com/Informatica4u/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Puoi raggiungere la pagina Instagram da [qui](https://www.instagram.com/informatica.4u/).
 
 ## Pagine
+
 ### Canali Telegram consigliati
 ### Articoli
